@@ -8,7 +8,7 @@ A deep Q-learning project on the OpenAI LunarLander problem (https://gym.openai.
 
 This project was an incredible amount of fun, and I got along really well with my my teammates. The final network had a topology of 324 neurons and over 2.1 million connections with two hidden layers, ReLu activation, and Adam optimization. The DQN also made use of an extremely large replay buffer (over 500,000 state-action transitions) and a target network that used hard-tau updates every 600th step along with annealed exploration.  
 
-Please note that that the jupyter notebook files might be slightly messy, as they were taken from another repo that was deleted. Also note that V7 was meant for producing the final video output for the project and includes code that is incompatible with Windows. V6 should be fully compatible with Windows, and should be nearly identical in terms of agent performance. Earlier version are included to show the progression of the project. 
+Please note that that the jupyter notebook files might be slightly messy, as they were taken from another repo that was deleted. Also note that V7 was meant for producing the final video output for the project and includes code that is incompatible with Windows. V6 should be fully compatible with Windows, and should be nearly identical in terms of agent performance. Earlier versions are included to show the progression of the project. 
 
 
 
